@@ -1,5 +1,5 @@
 import falcon
-from captcha.captcha.image import ImageCaptcha
+from captcha.image import ImageCaptcha
 import base64
 
 class ThingsResource(object):
